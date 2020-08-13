@@ -4,9 +4,7 @@ I like coding!
 ### About Me
 - Blog: [My Github Blog](wealways.github.io)
 
-[![Anurag's github stats](https://github-readme-
-stats.vercel.app/api?username=wealways)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wealways)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
