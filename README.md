@@ -2,7 +2,7 @@
 I like coding!
 
 ### About Me
-- Blog: [My Github Blog](http://www.wealways.github.io)
+- Blog: [My Github Blog](http://wealways.github.io)
 
 - 🌱 I’m currently learning [python,html,css,django,pytorch....]
 
