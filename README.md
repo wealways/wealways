@@ -2,7 +2,9 @@
 I like coding!
 
 ### About Me
-- Blog: [My Github Blog](wealways.github.io)
+- Blog: [My Github Blog](http://www.wealways.github.io)
+
+- 🌱 I’m currently learning [python,html,css,django,pytorch....]
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wealways)](https://github.com/anuraghazra/github-readme-stats)
 
