@@ -1,6 +1,6 @@
 ![nav](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=%E2%80%8D%EF%B8%8FHsngju%E2%80%8D%EF%B8%8F&fontSize=40&animation=twinkling)
 
-<p align="center"> SeungJu Hwang </p>
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
