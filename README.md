@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wealways&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wealways&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br><br>
