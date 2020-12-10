@@ -1,8 +1,8 @@
-![nav](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=%E2%80%8D%EF%B8%8FHsngju%E2%80%8D%EF%B8%8F&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&text=Hi There 👋&fontSize=40&animation=twinkling)
 
 <br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛶 Tech Stack 🛶</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <br><br>
-<h3 align="center"> 🐳 SeungJu Hwang 🐳 </h3>
+<h3 align="center">🌊 SeungJu Hwang 🌊</h3>
 <p align="center">
   <a href="https://velog.io/@hsngju"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
   <a href="https://www.instagram.com/hsngju/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
@@ -25,6 +25,7 @@
 </p>
 <br>
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&animation=twinkling)
 
 <!--
 - Blog: [My Github Blog](http://wealways.github.io)
