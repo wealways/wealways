@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
 </p>
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wealways&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wealways&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br><br>
 <h3 align="center">🌊 SeungJu Hwang 🌊</h3>
