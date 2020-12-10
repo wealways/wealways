@@ -20,8 +20,8 @@
 <br><br>
 <h3 align="center">🌊 Seungju Hwang 🌊</h3>
 <ul>
-  <li align="center"> - 👨‍🎓: Ajou University E-business </p>
-  <li align="center"> - 👨‍💻: Samsung Software Academy For Youth </p>
+  <p align="center"> - 👨‍🎓: Ajou University E-business </p>
+  <p align="center"> - 👨‍💻: Samsung Software Academy For Youth </p>
 </ul>
 <p align="center">
   <a href="https://velog.io/@hsngju"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
