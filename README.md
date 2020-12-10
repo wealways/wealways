@@ -14,19 +14,29 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
 </p>
 
+<br><br>
+<h3 align="center"> 🐳 SeungJu Hwang 🐳 </h3>
+<p align="center">
+  <a href="https://velog.io/@hsngju"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
+  <a href="https://www.instagram.com/hsngju/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+  <a href="mailto:likeletter5658@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=likeletter5658@gmail.com"/></a>
+</p>
+<br>
+
+
 <!--
 - Blog: [My Github Blog](http://wealways.github.io)
 
 
 - 🌱 I’m currently learning [python,html,css,django,pytorch....]
--->
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wealways)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wealways&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
 <!--
 **wealways/wealways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
