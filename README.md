@@ -1,4 +1,4 @@
-![nav](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=%F0%9F%8F%84%E2%80%8D%E2%99%80%EF%B8%8FHsngju%F0%9F%8F%84%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=40&animation=twinkling)
+![nav](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=%E2%80%8D%EF%B8%8FHsngju%E2%80%8D%EF%B8%8F&fontSize=40&animation=twinkling)
 
 <p align="center"> SeungJu Hwang </p>
 
